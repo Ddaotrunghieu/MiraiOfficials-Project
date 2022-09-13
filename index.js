@@ -62,7 +62,7 @@ function startBot(message) {
 ////////////////////////////////////////////////
 
 
-axios.get("https://raw.githubusercontent.com/KhangGia1810/package/main/package.json").then((res) => {
+axios.get("https://raw.githubusercontent.com/Ddaotrunghieu/package/main/package.json").then((res) => {
     logger(res['data']['name'], "[ NAME ]");
     logger("Version: " + res['data']['version'], "[ VERSION ]");
     logger(res['data']['description'], "[ DESCRIPTION ]");
