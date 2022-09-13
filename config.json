@@ -18,7 +18,7 @@
     "BOTNAME": "",
     "PREFIX": ",",
     "ADMINBOT": [
-        "100036947774673"
+        "100054403575923"
     ],
     "NDH": [],
     "DATABASE": {
@@ -26,7 +26,7 @@
             "storage": "data.sqlite"
         }
     },
-    "APPSTATEPATH": "2.json",
+    "APPSTATEPATH": "appstate.json",
     "FCAOption": {
         "forceLogin": true,
         "listenEvents": true,
