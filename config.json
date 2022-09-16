@@ -15,10 +15,10 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "",
-    "PREFIX": ",",
+    "BOTNAME": "Tên Bot",
+    "PREFIX": "Dấu Lệnh",
     "ADMINBOT": [
-        "100054403575923"
+        "Uid"
     ],
     "NDH": [],
     "DATABASE": {
